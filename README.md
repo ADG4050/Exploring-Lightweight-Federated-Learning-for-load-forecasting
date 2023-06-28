@@ -8,19 +8,21 @@ power, small sequential dense neural networks (DNN) are utilized to address this
 this project, the aim is to showcase the potential of FL in maintaining data privacy while achieving accurate load forecasting results, even in resource-constrained environments.
 
 ## The Methodology and Flow Diagrams used for this is below
-<img src="FD-1.PNG" width="400">
-<img src="FD-2.PNG" width="400">
-<img src="FD-3.PNG" width="400">
+<img src="FD-1.png" width="800">
+<img src="FD-2.png" width="800">
+<img src="FD-3.png" width="800">
 
 ## Results
-<img src="TL.PNG" width="400">
-<img src="RMSE.PNG" width="400">
-<img src=".PRED.PNG" width="400">
+Training Loss Results (MAE vs Federated Rounds) 
+<img src="TG-1.png" width="800">
+<img src="RMSE.png" width="400">
+<img src=".PRED.png" width="400">
 
 
 The Code unitl K-Means Application is shown in Dataset_cleaning.ipynb(https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/Dataset%20cleaning.ipynb).
 Code for TFF for Federated Learning for Load Forecasting is in TFF_LF.ipynb (https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/TFF_LF.ipynb)
 Code for Customized TFF Usage for checking the Federated Average process, next and initialize is available in weights_dem.ipynb (https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/Weights_dem.ipynb)
-Dependencies required for installation 
+
+
 
 
