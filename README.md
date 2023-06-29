@@ -12,11 +12,11 @@ this project, the aim is to showcase the potential of FL in maintaining data pri
 <img src="FD-2.png" width="800">
 <img src="FD-3.png" width="800">
 
-## Results
+## Cluster 08 Results
 Training Loss Results (MAE vs Federated Rounds) 
 <img src="TG-1.png" width="800">
-<img src="RMSE.png" width="400">
-<img src=".PRED.png" width="400">
+<img src="STY.png" width="800">
+<img src="STD1.png" width="800">
 
 
 The Code unitl K-Means Application is shown in Dataset_cleaning.ipynb(https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/Dataset%20cleaning.ipynb).
