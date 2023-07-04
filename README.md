@@ -26,7 +26,7 @@ Training Loss Results (MAE vs Federated Rounds)
 ## Code
 
 The Code is divided into 5 parts
-1) Data Cleaning and K - Means Application :
+1) Data Cleaning and K - Means Application : <Code\datacl_kmeans_final.ipynb>
 2) Short Term Daily Analysis code with custom loss function (MAIN CODE) : <Code\Short_Term_FC_custom_LF.ipynb>
 3) Custom TFF Algorithms for checking Global and Local Weights : <Code\Customized_TFF_Functionalities.ipynb> 
 4) Weekly Analysis Code : <Code\Weekly_Analysis.ipynb>
