@@ -20,14 +20,15 @@ Dataset Information : https://data.london.gov.uk/dataset/?q=energy
 Training Loss Results (MAE vs Federated Rounds) 
 <img src="Images\TG-1.png" width="800">
 <img src="Images\STY.png" width="800">
+<img src="Images\STDF1.png" width="800">
 
 
 ## Code
 
 The Code is divided into 5 parts
 1) Data Cleaning and K - Means Application :
-2) Custom TFF Algorithms for checking Global and Local Weights : <Code\Customized_TFF_Functionalities.ipynb> 
-3) Short Term Daily Analysis code with custom loss function : 
+2) Short Term Daily Analysis code with custom loss function (MAIN CODE) : <Code\Short_Term_FC_custom_LF.ipynb>
+3) Custom TFF Algorithms for checking Global and Local Weights : <Code\Customized_TFF_Functionalities.ipynb> 
 4) Weekly Analysis Code : <Code\Weekly_Analysis.ipynb>
 5) Monthly Analysis Code : <Code\Monthly_Analysis.ipynb>
 6) Centralized Model Code : <Code\Centralized_model.ipynb>   
