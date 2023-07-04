@@ -9,6 +9,8 @@ this project, the aim is to showcase the potential of FL in maintaining data pri
 
 The simulation is performed using Tensorflow Federated Libraries and Framework. To install TFF refer https://www.tensorflow.org/federated/install
 
+Dataset Information : https://data.london.gov.uk/dataset/?q=energy
+
 ## The Methodology and Flow Diagrams used for this is below
 <img src="Images\FD-1.png" width="800">
 <img src="Images\FD-2.png" width="800">
