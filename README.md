@@ -13,18 +13,6 @@ The simulation is performed using Tensorflow Federated Libraries and Framework. 
 
 Dataset Information : https://data.london.gov.uk/dataset/?q=energy
 
-## The Methodology and Flow Diagrams used for this is below
-<img src="Images\FD-1.png" width="800">
-<img src="Images\FD-2.png" width="800">
-<img src="Images\FD-3.png" width="800">
-
-## Cluster 08 Results
-Training Loss Results (MAE vs Federated Rounds) 
-<img src="Images\TG-1.png" width="800">
-<img src="Images\STY.png" width="800">
-<img src="Images\STDF1.png" width="800">
-
-
 ## Code
 
 The Code is divided into 5 parts
