@@ -7,7 +7,7 @@ of data privacy through FL. In real-world scenarios, the challenge of non-i.i.d.
 power, small sequential dense neural networks (DNN) are utilized to address this constraint. These DNN models are well-suited for low computational power devices and contribute to solving the computational challenges posed by smart meters. Through
 this project, the aim is to showcase the potential of FL in maintaining data privacy while achieving accurate load forecasting results, even in resource-constrained environments.
 
-Brief on the Project : (https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/Project%20Presentation.pdf)
+Brief on the Project : ([https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/Project%20Presentation.pdf](https://github.com/ADG4050/Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset/blob/Draft/IEEE-SmartGridComm-%23191%20(1570946068).pdf))
 
 The simulation is performed using Tensorflow Federated Libraries and Framework. To install TFF refer https://www.tensorflow.org/federated/install
 
