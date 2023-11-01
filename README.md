@@ -1,4 +1,4 @@
-# Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset
+# Light Weight-Federated-Learning-Approach-towards-Smart-Energy-Meter-Dataset
 
 This project is part of Msc Thesis at Trinity College Dublin. 
 
