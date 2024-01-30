@@ -15,9 +15,19 @@ The simulation is performed using Tensorflow Federated Libraries and Framework. 
 
 Dataset Information : https://data.london.gov.uk/dataset/?q=energy
 
-For further research and use of the above code,
-Cite : A. Duttagupta, J. Zhao and S. Shreejith, "Exploring Lightweight Federated Learning for Distributed Load Forecasting," 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Glasgow, United Kingdom, 2023, pp. 1-6, doi: 10.1109/SmartGridComm57358.2023.10333889.
-keywords: {Meters;Training;Energy consumption;Data privacy;Load forecasting;Federated learning;Predictive models;Federated learning;deep neural networks;Non - i.i.d distribution;data heterogeneity}, 
+For further research and use of the above code, cite below
+
+@INPROCEEDINGS{10333889,
+  author={Duttagupta, Abhishek and Zhao, Jin and Shreejith, Shanker},
+  booktitle={2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)}, 
+  title={Exploring Lightweight Federated Learning for Distributed Load Forecasting}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Meters;Training;Energy consumption;Data privacy;Load forecasting;Federated learning;Predictive models;Federated learning;deep neural networks;Non - i.i.d distribution;data heterogeneity},
+  doi={10.1109/SmartGridComm57358.2023.10333889}}
+
 
 ## Code
 
